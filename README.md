@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andrés Fadú, UX/UI designer
+- 👀 I’m interested in creativity and innovation
+- 🌱 I’m currently learning front-end development
+- 💞️ I’m looking to collaborate as a designer in ecology and sustainability projects
+- 📫 How to reach me andresfadu@gmail.com
